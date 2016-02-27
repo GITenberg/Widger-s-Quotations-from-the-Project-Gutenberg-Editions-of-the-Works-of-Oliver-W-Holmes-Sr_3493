@@ -1,0 +1,32 @@
+_repo: Widger-s-Quotations-from-the-Project-Gutenberg-Editions-of-the-Works-of-Oliver-W-Holmes-Sr_3493
+contributor:
+  creator:
+    editor:
+      agent_name: Widger, David
+      birthdate: 1932
+      gutenberg_agent_id: '1961'
+      url: http://www.gutenberg.org/2009/agents/1961
+creator:
+  author:
+    agent_name: Holmes, Oliver Wendell
+    birthdate: 1809
+    deathdate: 1894
+    gutenberg_agent_id: '387'
+    url: http://www.gutenberg.org/2009/agents/387
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Wendell_Holmes,_Sr.
+description: ''
+gutenberg_bookshelf: Project Gutenberg
+gutenberg_issued: '2002-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3493'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Quotations'
+title: Widger's Quotations from the Project Gutenberg Editions of the Works of Oliver
+  W. Holmes, Sr.
+url: http://www.gutenberg.org/ebooks/3493
