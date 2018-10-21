@@ -1,5 +1,5 @@
 _repo: Widger-s-Quotations-from-the-Project-Gutenberg-Editions-of-the-Works-of-Oliver-W-Holmes-Sr_3493
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -33,6 +33,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PS'
 - !lcsh 'Quotations'
+- GITenberg
 title: Widger's Quotations from the Project Gutenberg Editions of the Works of Oliver
   W. Holmes, Sr.
 url: http://www.gutenberg.org/ebooks/3493
